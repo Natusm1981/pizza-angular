@@ -1,0 +1,28 @@
+.iconeTopo{
+  max-width: 10vw;
+}
+
+.menuTopo{
+  border: 2px solid black;
+  padding: 5px;
+  border-radius: 2px;
+  background-color: beige;
+  display: flex;
+  position: relative 5vw;
+
+}
+
+.menuTitulo{
+font-size: 5vw;
+}
+
+.menuTopoEsquerda{
+  border: 1px solid #000;
+  padding: 3px;
+  align-content: space-around;
+}
+
+
+.menuTopoDireita{
+
+}
