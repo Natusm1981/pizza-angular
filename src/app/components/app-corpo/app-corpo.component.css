@@ -1,0 +1,10 @@
+.menuCorpo{
+  background-color: lightblue;
+  border: 1px solid;
+  display: flex;
+  width: 10%;
+  height: 10%;
+  align-items: center;
+  align-content: center;
+
+}

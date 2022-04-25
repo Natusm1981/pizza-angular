@@ -19,7 +19,8 @@ font-size: 5vw;
 .menuTopoEsquerda{
   border: 1px solid #000;
   padding: 3px;
-  align-content: space-around;
+  align-content: center;
+  align-items: center;
 }
 
 
