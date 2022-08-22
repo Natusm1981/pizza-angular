@@ -14,7 +14,7 @@ export class AppLocalComponent implements OnInit{
   ngOnInit(): void {
 
     const loader = new Loader({
-      apiKey: "AIzaSyCZsUDXCEiaJIYSo2or7xwYyvarAnKGVyQ",
+      apiKey: "xxXXxx",
       version: "weekly",
     });
 
